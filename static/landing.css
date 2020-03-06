@@ -1,0 +1,22 @@
+body {
+    width: 90%;
+    background-color: #e5e199;
+    margin: 15px auto;
+    border: 1px solid black; 
+    font-family: Merriweather;
+}
+    
+main {
+    width: 66%;
+    height: 350px;        /* to give the main content                               some height */
+    border-right: 2px solid #ef9c00;
+    float: left; }
+aside {
+    width: 33%;
+    float: right; }
+
+footer {
+    clear: both;
+    border-top: 2px solid #ef9c00; }
+
+h1 {font: cabin;}
