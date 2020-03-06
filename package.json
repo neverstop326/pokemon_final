@@ -1,13 +1,13 @@
 {
   "name": "pokemon_final",
   "version": "1.0.0",
-  "main": "pokemon-server.js",
+  "main": "server-pokemon.js",
   "engines": {
     "node": "10.15.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node pokemon-server.js"
+    "start": "node server-pokemon.js"
   },
   "author": "",
   "license": "ISC",
