@@ -44,7 +44,7 @@ function PostCassettesApi (req, res, next) {
 
 app.post('/api/pokemons', PostCassettesApi)
 app.get('/', function(req, res) {
-    res.redirect('/landing.html')
+    res.redirect('/pokemon.html')
 })
 
 
